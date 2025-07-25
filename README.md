@@ -53,5 +53,40 @@ This project presents a detailed analysis of retail sales data using **Power BI*
 | **Optimal Price Point**       | \$500                                   |
 | **Gender Spending**           | Females: 51.06% of sales; Males: 48.94% |
 
+### Dashboard Highlights
+
+Built in Power BI, the interactive dashboard includes:
+
+- Sales Trends by Date
+
+- Sales by Gender & Age Group
+
+- Top Product Categories & Price Points
+
+- Units Sold per Transaction
+
+- Sales by Day of the Week
+
+*Note*: Use filters to explore data by gender, product category, age group, and more.
+
+### Recommendations
+
+1. **Optimize Inventory**
+- Stock popular categories (Beauty in Q1/Q4; Electronics in Q2/Q4) ahead of peak seasons.
+
+2. **Target High-Value Demographics**
+- Focus marketing on the 19–28 age group.
+- Use gender-based product recommendations.
+  
+3. **Leverage Price Insights**
+- Emphasize premium pricing around $500.
+- Offer bundles or tiered pricing options.
+
+4. **Capitalize on Shopping Patterns**
+- Promote weekday offers; maximize weekend traffic with exclusive deals.
+
+5. **Enhance Customer Retention**
+- Implement loyalty programs and personalized product recommendations.
+
 
 
