@@ -1,11 +1,38 @@
 # Retail-Sales-Analysis
 
-### Overview
+### Table of Contents
+[Project Overview](project-overview)
 
+[Objectives](objectives)
+
+[Dataset Overview](dataset-overview)
+
+[Tools Used](tools-used)
+
+[Key Fields](key-fields)
+
+[Data Cleaning & Transformation](data-cleaning--transformation)
+
+[Key Insights](key-insights)
+
+[Dashbaord Highlights](dashboard-highlights)
+
+[Recommendations](recommendations)
+
+[Conclusion](conclusion)
+
+[Files in Repository](files-in-repository)
+
+[What I Learned](what-i-learned)
+
+[Future Improvements](future-improvements)
+
+
+### Project Overview
 This project presents a detailed analysis of retail sales data using **Power BI**, aimed at uncovering insights into customer behavior, product preferences, and sales performance over time. The insights derived from this project are designed to help businesses make **data-driven decisions** that optimize inventory, enhance marketing strategies, and boost revenue.
 
-### Objectives
 
+### Objectives
 - Analyze customer purchasing patterns by age and gender
 
 - Identify seasonal and weekly sales trends
@@ -16,22 +43,30 @@ This project presents a detailed analysis of retail sales data using **Power BI*
 
 - Understand transaction behavior and average order values
 
-### Dataset Overview
 
+### Dataset Overview
 **Source**: Kaggle
 
 **Rows**: 1,000 transactions
 
 **Columns**: 9
 
-**Key Fields**:
 
+**Key Fields**:
 - `Transaction ID`, `Date`, `Customer ID`, `Gender`, `Age`
 
 - `Product Category`, `Quantity`, `Price per Unit`, `Total Amount`
 
-### Data Cleaning & Transformation
 
+### Tools Used
+- **Power BI** – Data visualization and dashboard creation
+
+- **Excel** – Data preprocessing and wrangling
+
+- **Kaggle** – Dataset source
+
+
+### Data Cleaning & Transformation
 - Handled missing values and duplicate entries
 
 - Standardized date formats and ensured data type accuracy
@@ -40,8 +75,8 @@ This project presents a detailed analysis of retail sales data using **Power BI*
 
 - Enhanced categorical consistency for product categories
 
-### Key Insights
 
+### Key Insights
 | Metric                        | Insight                                 |
 | ----------------------------- | --------------------------------------- |
 | **Total Sales**               | \$456,123                               |
@@ -53,9 +88,9 @@ This project presents a detailed analysis of retail sales data using **Power BI*
 | **Optimal Price Point**       | \$500                                   |
 | **Gender Spending**           | Females: 51.06% of sales; Males: 48.94% |
 
-### Dashboard Highlights
 
-Built in Power BI, the interactive dashboard includes:
+### Dashboard Highlights
+Built in **Power BI**, the interactive dashboard includes:
 
 - Sales Trends by Date
 
@@ -67,10 +102,12 @@ Built in Power BI, the interactive dashboard includes:
 
 - Sales by Day of the Week
 
-*Note*: Use filters to explore data by gender, product category, age group, and more.
+*Note*: The dashboard includes slicers to filter by gender, age group, and product category for dynamic insights.
+
+<img width="1380" height="741" alt="Retail _Sales DB" src="https://github.com/user-attachments/assets/c218e96a-21f0-4a20-9c47-35678354433f" />
+
 
 ### Recommendations
-
 1. **Optimize Inventory**
 - Stock popular categories (Beauty in Q1/Q4; Electronics in Q2/Q4) ahead of peak seasons.
 
@@ -89,4 +126,34 @@ Built in Power BI, the interactive dashboard includes:
 - Implement loyalty programs and personalized product recommendations.
 
 
+### Conclusion
+The analysis revealed a consistent trend of higher sales during workdays, a strong preference for premium-priced items, and gender-based product differences. These insights can help inform better inventory planning, pricing strategies, and targeted promotions to boost revenue.
+
+
+### Files in Repository
+- `Retail_Sales_Analysis.pbix` – Power BI dashboard file
+
+- `Retail_Sales_Data.xlsx` – Cleaned dataset
+
+- `Retail_Sales_Report.pdf` – Detailed project report
+
+- `README.md` – Project summary
+
+
+### What I Learned
+- End-to-end dashboard creation using Power BI
+
+- Translating raw data into actionable insights
+
+- Communicating complex patterns through visual storytelling
+
+- Aligning business strategy with data analysis
+
+
+### Future Improvements
+- Include customer segmentation for deeper personalization
+
+- Integrate external factors (e.g., holidays, promotions)
+
+- Expand product categorization granularity (e.g., sub-categories)
 
