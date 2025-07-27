@@ -1,31 +1,31 @@
 # Retail-Sales-Analysis
 
 ### Table of Contents
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
-[Objectives](objectives)
+[Objectives](#objectives)
 
-[Dataset Overview](dataset-overview)
+[Dataset Overview](#dataset-overview)
 
-[Tools Used](tools-used)
+[Tools Used](#tools-used)
 
-[Key Fields](key-fields)
+[Key Fields](#key-fields)
 
-[Data Cleaning & Transformation](data-cleaning--transformation)
+[Data Cleaning & Transformation](#data-cleaning--transformation)
 
-[Key Insights](key-insights)
+[Key Insights](#key-insights)
 
-[Dashbaord Highlights](dashboard-highlights)
+[Dashbaord Highlights](#dashboard-highlights)
 
-[Recommendations](recommendations)
+[Recommendations](#recommendations)
 
-[Conclusion](conclusion)
+[Conclusion](#conclusion)
 
-[Files in Repository](files-in-repository)
+[Files in Repository](#files-in-repository)
 
-[What I Learned](what-i-learned)
+[What I Learned](#what-i-learned)
 
-[Future Improvements](future-improvements)
+[Future Improvements](#future-improvements)
 
 
 ### Project Overview
