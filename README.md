@@ -45,7 +45,7 @@ This project presents a detailed analysis of retail sales data using **Power BI*
 
 
 ### Dataset Overview
-**Source**: Kaggle
+**Source**: [Kaggle](https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset)
 
 **Rows**: 1,000 transactions
 
