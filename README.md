@@ -9,7 +9,6 @@
 
 [Tools Used](#tools-used)
 
-[Key Fields](#key-fields)
 
 [Data Cleaning & Transformation](#data-cleaning--transformation)
 
@@ -135,7 +134,7 @@ The analysis revealed a consistent trend of higher sales during workdays, a stro
 
 - `Retail_Sales_Data.xlsx` – Cleaned dataset
 
-- `Retail_Sales_Report.pdf` – Detailed project report
+- `Retail_Sales_Report.pdf` – Detailed project report. (https://github.com/FisayoAnalyst/Retail-Sales-Analysis-Using-Power-BI/blob/main/Retail%20Sales_Analysis_Report.pdf)
 
 - `README.md` – Project summary
 
